@@ -51,4 +51,5 @@ char *printRSP(int rsp) {
     case 3:
       return "Paper";
   }
+  return 0;
 }
